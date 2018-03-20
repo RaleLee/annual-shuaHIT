@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/annual-shuaHIT.iml" filepath="$PROJECT_DIR$/annual-shuaHIT.iml" />
       <module fileurl="file://$PROJECT_DIR$/easeui/easeui.iml" filepath="$PROJECT_DIR$/easeui/easeui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myphototest.iml" filepath="$PROJECT_DIR$/myphototest.iml" />
+      <module fileurl="file://C:\Users\11703\IdeaProjects\annual-shuaHIT\myphototest.iml" filepath="C:\Users\11703\IdeaProjects\annual-shuaHIT\myphototest.iml" />
     </modules>
   </component>
 </project>
